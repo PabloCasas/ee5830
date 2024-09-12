@@ -9,4 +9,4 @@ git commit -m "updating homework and notes for ee5830"
 
 
 echo "Pushing the changes..."
-git push origin main 
+git push origin master 
